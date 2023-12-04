@@ -12,15 +12,12 @@
 }
 
 .app-brand-logo.demo {
-  -ms-flex-align: center;
-  align-items: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  display: -ms-flexbox;
   display: flex;
-  width: 34px;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
   height: 24px;
-}
+ }
 
 .app-brand-logo.demo svg {
   width: 35px;
@@ -28,7 +25,7 @@
 }
 
 .app-brand-text.demo {
-  font-size: 1.375rem;
+  font-size: 1.1rem;
 }
 
 /* ! For .layout-navbar-fixed added fix padding top tpo .layout-page */
